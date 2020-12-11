@@ -1,1 +1,4 @@
-# Computer Vision with Python3
+# 파이썬3로 컴퓨터 비전 다루기
+
+## 시작하기 전에..
+## Content
