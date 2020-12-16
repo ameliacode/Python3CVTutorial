@@ -30,12 +30,12 @@ pip install opencv-contrib-python
 ```
 
 ### Dependencies
-Python 3.7  
-Opencv 4.4.0  
-Tensorflow 2.3.1   
-Pillow 8.0.1    
-Scikit-image 0.18.1  
-Scikit-learn 0.23.2  
+* Python 3.7  
+* Opencv 4.4.0  
+* Tensorflow 2.3.1   
+* Pillow 8.0.1    
+* Scikit-image 0.18.1  
+* Scikit-learn 0.23.2  
 
 
 
