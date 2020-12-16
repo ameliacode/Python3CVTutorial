@@ -5,9 +5,7 @@
 
 ---------------
 
-본 책에서 나온 코드들을 정리한 repo입니다. 더 자세한 코드나 영문 서적을 참고하시고 싶으시다면 
-
-[여기]: https://github.com/PacktPublishing/Computer-Vision-with-Python-3
+본 책에서 나온 코드들을 정리한 repo입니다. 더 자세한 코드나 영문 서적을 참고하시고 싶으시다면 [여기](https://github.com/PacktPublishing/Computer-Vision-with-Python-3)
 
 ✔ 파이썬 3로 컴퓨터 비전 다루기에 나온 코드들을 전부 2021년 기준으로 수정
 
@@ -31,17 +29,13 @@ pip install tensorflow
 pip install opencv-contrib-python
 ```
 
-
-
 ### Dependencies
-
-* Python 3.7
-
-* Opencv 4.4.0
-* Tensorflow 2.3.1
-* Pillow 8.0.1
-* Scikit-image 0.18.1
-* Scikit-learn 0.23.2
+Python 3.7  
+Opencv 4.4.0  
+Tensorflow 2.3.1 
+Pillow 8.0.1  
+Scikit-image 0.18.1  
+Scikit-learn 0.23.2  
 
 
 
